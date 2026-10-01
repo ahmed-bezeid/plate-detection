@@ -30,3 +30,9 @@ Pipeline de détection et lecture automatique de plaques d'immatriculation :
 
 5\. Lecture du texte avec EasyOCR
 
+
+
+\## À propos du modèle
+
+Le fichier best.pt include dans ce dépôt est mon modèle personalisé entraîné pour la déection de plaques d'immatriculation.
+
